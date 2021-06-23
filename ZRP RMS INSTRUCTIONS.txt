@@ -1,0 +1,4 @@
+Intsructions 
+Install Wamp Server 
+Import SQL file 
+Then Use details admin admin to log in to admin segment
